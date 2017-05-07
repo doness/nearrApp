@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nearr</string>
+    <string name="about_app">About &amp; Help</string>
+    <string name="lookfor"><b>Looking For?</b></string>
+    <string name="findBtnText"><b>Find</b></string>
+</resources>
